@@ -11,7 +11,7 @@ owner: Asperatus Labs # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: Asperatus@mutinylabs.in
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://asperatuslabs.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/asperatuslabs
   github: https://github.com/asperatuslabs
